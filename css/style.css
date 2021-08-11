@@ -1,0 +1,53 @@
+table,tr ,th,td{
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+header{
+    background: #1F1F1F    ;
+    min-height: 40px;
+    color: #fff;    
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    margin-bottom:100px ;
+}
+body{
+    background-image: url(/backgorund1.png);
+    min-height: 100vh;
+    background-position: center;
+    /* background-position: center; */
+    background-size: cover;
+}
+#form{
+    background-color: rgba(114, 104, 211, 0.8);
+    padding: 100px;
+    width: 25%;
+    margin-left: 20px;
+}
+label{
+    font-size: 20px;
+    color: #fff;
+    margin-left: 120px;
+}
+
+#donationName{
+    padding-left: 200px;
+    padding-top: 10px;
+
+}
+#donationAmount{
+    padding-left: 315px;
+    padding-top: 10px;
+
+}
+
+#submittion{
+    margin-top: 10px;
+    margin-left: 35%;
+
+}
+option{
+    text-align: center;
+}
